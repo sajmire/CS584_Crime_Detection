@@ -1,0 +1,2 @@
+# CS584_Crime_Detection
+Implemented crime detection system to predict crime using different Machine Learning models in Python. Developed predictive models for crime using machine learning to better focus on locations where crimes are more likely to be committed.  Given some data for per-capita crime rates around the country, task was to build models to predict the crime rate based on demographic and economic information about the particular locality.
